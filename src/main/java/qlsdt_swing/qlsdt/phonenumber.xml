@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phoneNumbers>
+    <phoneNumber>
+        <name>Pham Huu A</name>
+        <cccd>123456789</cccd>
+        <phoneNumber>0987654321</phoneNumber>
+        <network>Viettel</network>
+        <servicePackage>Gói cước A</servicePackage>
+        <price>100000</price>
+        <activationTime>2023-01-01</activationTime>
+    </phoneNumber>
+    <phoneNumber>
+        <name>Hoang Thi B</name>
+        <cccd>987654321</cccd>
+        <phoneNumber>0123456789</phoneNumber>
+        <network>Vinaphone</network>
+        <servicePackage>Gói cước B</servicePackage>
+        <price>150000</price>
+        <activationTime>2023-02-01</activationTime>
+    </phoneNumber>
+    <!-- Thêm các phoneNumber khác tại đây -->
+</phoneNumbers>

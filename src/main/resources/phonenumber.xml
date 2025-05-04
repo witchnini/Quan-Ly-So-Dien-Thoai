@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<phoneNumbers>
+    <phoneNumber>
+        <name>Nguyen Van A</name>
+        <cccd>123456789</cccd>
+        <phoneNumber>0987654321</phoneNumber>
+        <network>Viettel</network>
+        <servicePackage>GOI CUOC 1</servicePackage>
+        <price>50000</price>
+        <activationTime>2021-01-01</activationTime>
+    </phoneNumber>
+    <phoneNumber>
+        <name>Le Thi B</name>
+        <cccd>987654321</cccd>
+        <phoneNumber>0123456789</phoneNumber>
+        <network>VinaPhone</network>
+        <servicePackage>GOI CUOC 2</servicePackage>
+        <price>100000</price>
+        <activationTime>2021-02-01</activationTime>
+    </phoneNumber>
+</phoneNumbers>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<phoneNumbers>
+    <phoneNumber>
+        <id>2</id>
+        <fullName>Lưu Việt Hoàng</fullName>
+        <idNumber>034304001810</idNumber>
+        <phoneNumber>0910127112</phoneNumber>
+        <carrier>MobiFone</carrier>
+        <servicePackage>MB01</servicePackage>
+        <price>100000.0</price>
+        <connectionTime>2024-10-17</connectionTime>
+        <fromPriceSearch>0.0</fromPriceSearch>
+        <toPriceSearch>0.0</toPriceSearch>
+    </phoneNumber>
+    <phoneNumber>
+        <id>1</id>
+        <fullName>Phạm Thủy Ni Ni</fullName>
+        <idNumber>034304002701</idNumber>
+        <phoneNumber>0339338271</phoneNumber>
+        <carrier>Viettel</carrier>
+        <servicePackage>VT27</servicePackage>
+        <price>270000.0</price>
+        <connectionTime>2027-01-27</connectionTime>
+        <fromPriceSearch>0.0</fromPriceSearch>
+        <toPriceSearch>0.0</toPriceSearch>
+    </phoneNumber>
+</phoneNumbers>
